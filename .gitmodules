@@ -1,0 +1,9 @@
+[submodule "lib/modul1"]
+	path = lib/modul1
+	url = https://github.com/Dominikapolchlopek/R1.git
+[submodule "lib/modul2"]
+	path = lib/modul2
+	url = https://github.com/Dominikapolchlopek/R2.git
+[submodule "lib/modul3"]
+	path = lib/modul3
+	url = https://github.com/Dominikapolchlopek/R3.git
